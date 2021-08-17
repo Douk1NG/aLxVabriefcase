@@ -1,9 +1,10 @@
-function refresh(){
-var asd = window.location.reload (true);
-  if(asd){
-  asd= false;
-  }
-}
+// function refresh(){
+// var asd = window.location.reload (true);
+//   if(asd){
+//   asd= false;
+//   }
+// }
+
 
 function copytoclipboard(id_elemento) {
   var aux = document.createElement("input");

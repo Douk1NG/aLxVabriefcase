@@ -684,6 +684,7 @@ body {
 
 	.s2-contact {
 /*	padding: 0 0 0 0;*/
+	overflow: scroll
 	}
 
 	.section2 {

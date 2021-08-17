@@ -734,6 +734,7 @@ body {
  	.ph2{
  		width: 180px;
  		height: 180px;
+		overflow: hidden;
  	}
  	.f-copy {
  	text-align: center;

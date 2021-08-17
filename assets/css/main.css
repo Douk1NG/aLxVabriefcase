@@ -521,7 +521,7 @@ body {
  }
 
 .s2-contact {
-	margin: auto;
+	margin: -10 auto auto auto;
 
  }
 
@@ -617,8 +617,8 @@ body {
 	}
 
 	.p-img {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     margin: auto;
     }
 
@@ -637,7 +637,6 @@ body {
 	font-size: 20px;
 	width: 80px;
 	margin: auto;
-	padding: auto;
     }
 
     .section {
@@ -663,21 +662,12 @@ body {
 	}
 
 	.c-ul {
-		margin: 10 10 10 -15px;
+/*		margin: 10 10 10 -15px;*/
+		margin: auto 10 auto 0;
 	}
-
-	.section .contenedor5 .c-ul {
-		margin: 40 10 10 -15px;
-	}
-
-	.section .contenedor6 .c-ul {
-		margin: 40 10 10 -15px;
-	}
-	
 
 	.c-li {
 	font-size: 13px;
-	margin: 0 5px 0 5px;
 	}
 
 	.section .contenedor3 .c-title{
@@ -686,22 +676,22 @@ body {
 
 	.s2-title {
 	text-transform: uppercase;
-	font-size: 24px;
+	font-size: 25px;
 	margin: 0;
  	}
 
  	.s2-description {
-	font-size: 15px;
+	font-size: 16px;
 	margin-top: -1px;
 	}
 
 	.s2-contact {
-	margin: auto;
+/*	padding: 0 0 0 0;*/
 	}
 
 	.section2 {
 	grid-template:  
-	"photo2"  20%
+	"photo2"  30%
 	"s2-info" 70%/
 	   100%;
 	}
@@ -732,9 +722,8 @@ body {
  	}
 
  	.ph2{
- 		width: 180px;
- 		height: 180px;
-		overflow: hidden;
+ 		width: 200px;
+ 		height: 200px;
  	}
  	.f-copy {
  	text-align: center;

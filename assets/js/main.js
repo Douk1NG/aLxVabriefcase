@@ -1,3 +1,5 @@
+window.location.reload (true);
+
 
 function copytoclipboard(id_elemento) {
   var aux = document.createElement("input");
@@ -7,3 +9,5 @@ function copytoclipboard(id_elemento) {
   document.execCommand("copy");
   document.body.removeChild(aux);
 }
+
+

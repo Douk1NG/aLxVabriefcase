@@ -700,6 +700,7 @@ body {
 	"s2-description" 40%
 	"s2-contact" 50%/
 	   100%;
+	overflow:hidden;
 	 }
 
 	.button {

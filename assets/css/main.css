@@ -683,8 +683,7 @@ body {
 	}
 
 	.s2-contact {
-/*	padding: 0 0 0 0;*/
-	overflow: auto;
+	margin: auto;
 	}
 
 	.section2 {
@@ -700,7 +699,6 @@ body {
 	"s2-description" 40%
 	"s2-contact" 50%/
 	   100%;
-	overflow:hidden;
 	 }
 
 	.button {

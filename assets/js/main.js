@@ -1,4 +1,4 @@
-window.location.reload (true);
+
 
 
 function copytoclipboard(id_elemento) {

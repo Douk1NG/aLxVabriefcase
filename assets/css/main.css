@@ -563,39 +563,39 @@ body {
 
 	}
 	.header-title{
-		font-size: 20px;
-		margin-left: 20;
+	 font-size: 20px;
+	 margin-left: 20;
 	}
 	.bitem {
-		margin: 5;
+	 margin: 5;
 
 	}
 
 	.bbox,.bbox-a{
-		font-size: 15px;
-		line-height: 60px;
-		padding: 5;
+	 font-size: 15px;
+	 line-height: 60px;
+	 padding: 5;
 
 	}
 
 	.bbox-a {
-		margin-right: 5px;
+	 margin-right: 5px;
 	}
 
 	.bbox{
-		margin-left: -5px;
+	 margin-left: -5px;
 	}
 
 	.main {
-	   grid-template: 
-		"photo" 45%
-		"presentation" 55% /
-		  100%;
+	 grid-template: 
+	"photo" 45%
+	"presentation" 55% /
+	  100%;
 		}
 
 	.presentation {
-	grid-template: 
-	"p-social"5%
+	 grid-template: 
+	 "p-social"5%
 	 "p-txt1"90%
 	 "p-botones"5%/
 	 100%;
@@ -603,134 +603,133 @@ body {
 
 
 	.photo {
-		grid-template: 
-		"p-img" 100%/
+	 grid-template: 
+	 "p-img" 100%/
 		100%;
 	}
 
 
 	.p-name {
-	margin: 1px;
-	font-size: 22px;
-	font-weight: bold;
-	text-align: center;
+	 margin: 1px;
+	 font-size: 22px;
+	 font-weight: bold;
+	 text-align: center;
 	}
 
 	.p-img {
-    width: 200px;
-    height: 200px;
-    margin: auto;
+     width: 200px;
+     height: 200px;
+     margin: auto;
     }
 
      .photo1 {
-	width: 200px;
-    height: 200px;
+	 width: 200px;
+     height: 200px;
 	}
 
 	.p-info {
-		font-size: 16px;
-		padding-left: 5px;
-		padding: 0;
+	 font-size: 16px;
+	 padding-left: 5px;
+	 padding: 0;
 	}
 
 	.p-bbox {
-	font-size: 20px;
-	width: 80px;
-	margin: auto;
+	 font-size: 20px;
+	 width: 80px;
+	 margin: auto;
     }
 
     .section {
-	grid-template:
-	"contenedor1 contenedor2" 33%
-	"contenedor3 contenedor4" 33%
-	"contenedor5 contenedor6" 33% /
+	 grid-template:
+	 "contenedor1 contenedor2" 33%
+	 "contenedor3 contenedor4" 33%
+	 "contenedor5 contenedor6" 33% /
         50%;
 	}
 
 	.c-title{
-	font-size: 20px;
-	overflow: hidden;
+	 font-size: 20px;
+	 overflow: hidden;
 	}
 
 	.c-btn-s {
-	font-size: 20px;
+	 font-size: 20px;
 	}
 
 	.c-img {
-	padding: 0 5 0 5px;
+	 padding: 0 5 0 5px;
 
 	}
 
 	.c-ul {
-/*		margin: 10 10 10 -15px;*/
-		margin: auto 10 auto 0;
+	 margin: auto 10 auto 0;
 	}
 
 	.c-li {
-	font-size: 13px;
+	 font-size: 13px;
 	}
 
 	.section .contenedor3 .c-title{
-		font-size: 19px;
+	 font-size: 19px;
 	}
 
 	.s2-title {
-	text-transform: uppercase;
-	font-size: 25px;
-	margin: 0;
+	 text-transform: uppercase;
+	 font-size: 25px;
+	 margin: 0;
  	}
 
  	.s2-description {
-	font-size: 16px;
-	margin-top: -1px;
+	 font-size: 16px;
+	 margin-top: -1px;
 	}
 
 	.s2-contact {
-/*	padding: 0 0 0 0;*/
+	 margin-top: -1px;	
 	}
 
 	.section2 {
-	grid-template:  
-	"photo2"  30%
-	"s2-info" 70%/
+	 grid-template:  
+	 "photo2"  30%
+	 "s2-info" 70%/
 	   100%;
 	}
 
 	.s2-info {
-	grid-template: 
-	"s2-title" 10% 
-	"s2-description" 40%
-	"s2-contact" 50%/
+	 grid-template: 
+	 "s2-title" 10% 
+	 "s2-description" 40%
+	 "s2-contact" 50%/
 	   100%;
 	 }
 
 	.c3,.c4{
-		height: 99px;
-		width: 171px;
+	 height: 99px;
+	 width: 171px;
 	}
 
 	.button {
-	width: 50;
+	 width: 50;
  	}
 
 	.btn-img {
-	height: 20px;
-	width: 20px;
+	 height: 20px;
+	 width: 20px;
  	}
 
 	.p2 {
-	margin-top: -55px;
-	padding-left: 20px;
-	color: black;
-	font-size: 14px;
-	word-break: break-word;	
+	 margin-top: -55px;
+	 padding-left: 20px;
+	 color: black;
+	 font-size: 14px;
+	 word-break: break-word;	
  	}
 
  	.ph2{
- 		width: 200px;
- 		height: 200px;
+ 	 width: 200px;
+ 	 height: 200px;
  	}
  	.f-copy {
- 	text-align: center;
+ 	 text-align: center;
   }
 }
